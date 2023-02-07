@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work/Mobile2/week15/app/src/main/res/layout/activity_add.xml" value="0.4" />
+        <entry key="..\:/Work/Mobile2/week15/app/src/main/res/layout/activity_detail.xml" value="0.22083333333333333" />
+        <entry key="..\:/Work/Mobile2/week15/app/src/main/res/layout/activity_library.xml" value="0.264" />
+        <entry key="..\:/Work/Mobile2/week15/app/src/main/res/layout/activity_main.xml" value="0.25359712230215825" />
+        <entry key="..\:/Work/Mobile2/week15/app/src/main/res/layout/activity_mymap.xml" value="0.2" />
+        <entry key="..\:/Work/Mobile2/week15/app/src/main/res/layout/activity_myplace.xml" value="0.1" />
+        <entry key="..\:/Work/Mobile2/week15/app/src/main/res/layout/activity_myplacedetail.xml" value="0.264" />
+        <entry key="..\:/Work/Mobile2/week15/app/src/main/res/layout/activity_s.xml" value="0.2553846153846154" />
+        <entry key="..\:/Work/Mobile2/week15/app/src/main/res/layout/activity_search.xml" value="0.264" />
+        <entry key="..\:/Work/Mobile2/week15/app/src/main/res/layout/developer.xml" value="0.25364583333333335" />
+        <entry key="..\:/Work/Mobile2/week15/app/src/main/res/layout/listview_book.xml" value="0.20042194092827004" />
+        <entry key="..\:/Work/Mobile2/week15/app/src/main/res/layout/place_adapter.xml" value="0.264" />
+        <entry key="..\:/Work/Mobile2/week15/app/src/main/res/menu/menu_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Work/Mobile2/week15/ma01_20191012/app/src/main/res/layout/activity_add.xml" value="0.25" />
+        <entry key="..\:/Work/Mobile2/week15/ma01_20191012/app/src/main/res/layout/activity_detail.xml" value="0.4" />
+        <entry key="..\:/Work/Mobile2/week15/ma01_20191012/app/src/main/res/layout/activity_library.xml" value="0.264" />
+        <entry key="..\:/Work/Mobile2/week15/ma01_20191012/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Work/Mobile2/week15/ma01_20191012/app/src/main/res/layout/activity_myplace.xml" value="0.264" />
+        <entry key="..\:/Work/Mobile2/week15/ma01_20191012/app/src/main/res/layout/activity_myplaceupdate.xml" value="0.1" />
+        <entry key="..\:/Work/Mobile2/week15/ma01_20191012/app/src/main/res/layout/activity_search.xml" value="0.115625" />
+        <entry key="..\:/Work/Mobile2/week15/ma01_20191012/app/src/main/res/layout/activity_update.xml" value="0.536" />
+        <entry key="..\:/Work/Mobile2/week15/ma01_20191012/app/src/main/res/layout/developer.xml" value="0.115625" />
+        <entry key="..\:/Work/Mobile2/week15/ma01_20191012/app/src/main/res/layout/listview_book.xml" value="0.2" />
+        <entry key="..\:/Work/Mobile2/week15/ma01_20191012/app/src/main/res/layout/place_adapter.xml" value="0.115625" />
+        <entry key="..\:/Work/Mobile2/week15/ma01_20191012/app/src/main/res/xml/filepaths.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

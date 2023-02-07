@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu01"
+        android:title="내 장소 보기" />
+    <item
+        android:id="@+id/menu02"
+        android:title="개발자 소개" />
+    <item
+        android:id="@+id/menu03"
+        android:title="앱 종료" />
+</menu>

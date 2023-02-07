@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ma01_20191012</string>
+    <string name="api_url">https://openapi.naver.com/v1/search/book.xml?display=80&amp;start=1&amp;query=</string>
+    <string name="api_key">AIzaSyAedIYVJmi8Yld1Iwv3oxEP1qzy092_B4g</string>
+    <string name="client_id">jYE4MWkEneZ_dVJYMJka</string>
+    <string name="client_secret">BGj_PQL2uT</string>
+    <string name="init_lat">37.604094</string>
+    <string name="init_lng">127.042463</string>
+</resources>
